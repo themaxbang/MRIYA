@@ -4,12 +4,12 @@ MRIYA (Ukrainian for «Dream») is a 42-key column-staggered split keyboard base
 ![IMG_20230302_120533180 MP-01](https://user-images.githubusercontent.com/92160671/233805370-a406ebed-7b9d-4550-b07d-63096c176b76.jpeg)
 
 # Features
-- simple and clean design (fully optimized for wireless)
-- comfortable thumb cluster (inspired by jian: https://github.com/KGOH/Jian-Info)
-- convenient reset buttons (on the top plate)
-- native nice!view support
-- aggressive pinky stagger
-- no LEDs
+- Simple and clean design (fully optimized for wireless)
+- Comfortable thumb cluster (inspired by jian: https://github.com/KGOH/Jian-Info)
+- Convenient reset buttons
+- Native nice!view support
+- Aggressive pinky stagger
+- No LEDs
 - Hot-swap MX
 - QMK/ZMK support (any crkbd-compatible firmware will work)
 
