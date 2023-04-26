@@ -20,3 +20,10 @@ MRIYA (Ukrainian for «Dream») is a 42-key column-staggered split keyboard base
 
 ## BOM
 work in progress..
+
+## Inspired by
+- [corne](https://github.com/foostan/crkbd)
+- [cantor](https://github.com/diepala/cantor)
+- [jian](https://github.com/KGOH/Jian-Info)
+- [chocofi](https://github.com/pashutk/chocofi) / [fifi](https://github.com/raychengy/fifi_split_keeb)
+- [slice36](https://github.com/MReavley/Slice36)
