@@ -1,7 +1,7 @@
 # MRIYA
 MRIYA (Ukrainian for «Dream») is a 42-key column-staggered split keyboard based on Corne Cherry v.3.0.1.
 
-![MRIYA](https://imgur.com/i5s8GfO)
+[![MRIYA](https://imgur.com/i5s8GfO)](https://imgur.com/i5s8GfO)
 
 # Features
 - Simple and clean design (fully optimized for wireless)
