@@ -1,0 +1,15 @@
+(footprint "Hole_3.6mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "crkbd-wl-lite-left.kicad_sch")
+  (property "Sheetname" "")
+  (attr through_hole)
+  (fp_text reference "H3" (at 0 0) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1b66ad14-61b1-481e-8a75-9ba323973b03)
+  )
+  (fp_text value "MountingHole 3.6mm" (at 0.01 -3.02) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0009401a-7fb9-4fab-b5ca-cd7d9f04c39b)
+  )
+  (pad "" np_thru_hole circle (at 0 0 270) (size 3.8 3.8) (drill 3.6) (layers "F&B.Cu" "*.Mask") (tstamp af90483c-e7a4-4012-9bdf-de945f66b7b1))
+)

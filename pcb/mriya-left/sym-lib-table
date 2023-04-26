@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "crkbd")(type "KiCad")(uri "/home/themaxbang/Documents/crkbd-wl-lite/crkbd_library/crkbd.kicad_sym")(options "")(descr ""))
+)
