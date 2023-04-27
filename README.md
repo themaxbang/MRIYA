@@ -13,10 +13,10 @@ MRIYA (Ukrainian for «Dream») is a 42-key column-staggered split keyboard base
 - Hot-swap MX
 - QMK/ZMK support
 
-## Issues I found
-- Controllers longer than 35mm (ProMicro from AliExpress) will stick out a little from the mcu cover
+## Possible issues
+- Controllers longer than 35mm (ProMicro from AliExpress) will stick out from the cover
 - Required thickness for the bottom fr4 plate at least 1.6mm because of construction specifics (only 4 mounting points)
-- MT3 Ortho sets aren't suitable because of the 1.25u thumb keys
+- Limited keycap compatibility (e.g. MT3 ortho sets) because of the 1.25u thumb keys
 
 ## BOM
 work in progress..
