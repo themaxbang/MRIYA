@@ -19,7 +19,9 @@
 - Limited keycap compatibility (e.g. MT3 ortho sets) because of the 1.25u thumb keys
 
 ## PCB
-Kicad 7.0.2 Stable
+[Kicad 7.0.2 Stable](https://www.kicad.org/)
+Silkscreen font: [Roboto](https://fonts.google.com/specimen/Roboto) / [Roboto condensed](https://fonts.google.com/specimen/Roboto+Condensed)
+
  Left | Right    
  ---- | -----  
 ![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-left-top.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-right-top.png)     
