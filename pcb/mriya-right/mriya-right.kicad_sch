@@ -2349,7 +2349,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Female") (at 129.54 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5ea9e4c8-6f5a-4282-9ccc-4bbc5a71bd89)
-    (property "Reference" "J5" (at 130.2512 27.2796 0)
+    (property "Reference" "J6" (at 130.2512 27.2796 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Battery" (at 130.2512 29.591 0)
@@ -2366,7 +2366,7 @@
     (instances
       (project "mriya-right"
         (path "/e02cb072-403e-4f41-9df6-6bdac0d01d9b"
-          (reference "J5") (unit 1)
+          (reference "J6") (unit 1)
         )
       )
     )
