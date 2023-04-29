@@ -1,7 +1,7 @@
 # MRIYA
 **MRIYA** (Ukrainian for «Dream») is a 42-key column-staggered split keyboard based on [Corne Cherry v.3.0.1](https://github.com/foostan/crkbd)
 
-[![MRIYA](https://i.imgur.com/i5s8GfO.jpg)](https://i.imgur.com/i5s8GfO.jpg)
+[![MRIYA](https://github.com/themaxbang/MRIYA/blob/main/pictures/MRIYA%20LOGO.png)](https://github.com/themaxbang/MRIYA/blob/main/pictures/MRIYA%20LOGO.png)
 
 ## Features
 - Design optimized for wireless
@@ -37,12 +37,12 @@ Top | Bottom
 work in progress..
 |Reference|Name|Qty|LCSC|AliExpess
  ------- | ------- | ------- | ------- | ------- 
-U1, U2 | Microcontroller ProMicro | 2 | --- | [AliExpress](https://aliexpress.ru/item/1005004242820623.html?sku_id=12000028500661497&spm=a2g2w.productlist.search_results.17.53474aa6zfoJcj)
+U1, U2 | Microcontroller ProMicro / NiceNano | 2 | --- | [AliExpress](https://aliexpress.ru/item/1005004242820623.html?sku_id=12000028500661497&spm=a2g2w.productlist.search_results.17.53474aa6zfoJcj)
 SW1-SW42 | Kailh Hotswap Socket | 42 | [LCSC](https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_span-style-background-color-ff0-Kailh-span-CPG151101S11-16_C5156480.html) | [AliExpress](https://aliexpress.ru/item/1005003873653184.html?spm=a2g2w.orderdetail.0.0.3e484aa6uTmLrs&sku_id=12000031057687324)
 D1-D42 | Diode 1N4148W (SOD-123) | 42 | [LCSC](https://www.lcsc.com/product-detail/Diodes-General-Purpose_RealChip-1N4148W_C5443965.html) | [AliExpress](https://aliexpress.ru/item/32354597825.html?sku_id=58815690427&spm=a2g2w.productlist.search_results.0.18174aa6pNF4Nj)
 PSW1, PSW2 | Power Switch SSSS811101 | 2 | [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_ALPSALPINE-SSSS811101_C109335.html) | [AliExpress](https://aliexpress.ru/item/1005002925147725.html?spm=a2g2w.orderdetail.0.0.398b4aa6ZWxzok&sku_id=12000022829402177)
 RSW1, RSW2 | Reset Switch TC-1109-C-A (4.5x4.5x**5.5**mm) | 2 | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TC-1109-C-A_C561500.html) | [AliExpress](https://aliexpress.ru/item/1005001629344310.html?spm=a2g2w.orderdetail.0.0.71e54aa6nRE0h1&sku_id=12000016890022339)
-J1, J2 | Nice!View Display | 2 | --- | ---
+J1, J2 | Nice!View Display (optional) | 2 | --- | ---
 J3, J4 | Audio connector DIP PJ-320A | 2 | [LCSC](https://www.lcsc.com/product-detail/Audio-Connectors_XKB-Connectivity-PJ-320A_C2884926.html) | [AliExpress](https://aliexpress.ru/item/4000661212458.html?sku_id=10000005518588253&spm=a2g2w.productlist.search_results.3.61834aa6M9b3i4)
 --- | --- | --- | --- | ---
 --- | --- | --- | --- | ---
