@@ -25,7 +25,7 @@
 
  Left | Right    
  ---- | -----  
-![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-left-top.jpeg)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-right-top.jpeg)     
+![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-left-top.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-right-top.jpeg)     
 ![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-left-bottom.jpeg)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-right-bottom.jpeg)   
 
 ## PCB Plates
