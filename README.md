@@ -35,11 +35,12 @@ Top | Bottom
 
 ## BOM
 work in progress..
-|     |  |  |
-| -------- | -------- | ------ 
-|   |      | 
-|  |     | 
-|     |     | 
+|Reference|Name|Qty|LCSC|AliExpess
+ ------- | ------- | ------- | ------- | ------- 
+U1, U2 | Microcontroller ProMicro | 2 | --- | ---
+SW1-SW42 | Kailh Hotswap Socket | 42 | --- | ---
+D1-D42 | Diode 1N4148W (SOT-123) | 42 | --- | ---
+PSW1, PSW2 | Power Switch | 2 | --- | ---
 
 
 ## Inspired by

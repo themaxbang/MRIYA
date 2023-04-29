@@ -1385,7 +1385,7 @@
     (property "Value" "ProMicro" (at 46.99 58.42 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "mriya:ProMicro_v3" (at 49.53 71.12 0)
+    (property "Footprint" "mriya:ProMicro" (at 49.53 71.12 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 49.53 71.12 0)
@@ -2043,7 +2043,7 @@
   (symbol (lib_id "Switch:SW_SPDT") (at 111.0742 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 79dfb9ad-c9b8-4b5e-89b4-e2c1ee4b1ad9)
-    (property "Reference" "SW22" (at 111.0742 27.051 0)
+    (property "Reference" "PSW1" (at 111.0742 27.051 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPDT" (at 111.0742 29.3624 0)
@@ -2061,7 +2061,7 @@
     (instances
       (project "mriya-left"
         (path "/eb62da78-dfd8-4bde-9993-50d36b1638e4"
-          (reference "SW22") (unit 1)
+          (reference "PSW1") (unit 1)
         )
       )
     )
@@ -2247,7 +2247,7 @@
   (symbol (lib_id "corne-cherry-left-rescue:MJ-4PP-9-kbd") (at 39.37 103.505 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 99bc068c-1058-43f2-91ac-027a41f0df11)
-    (property "Reference" "J1" (at 39.37 99.695 0)
+    (property "Reference" "J3" (at 39.37 99.695 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PJ-320A" (at 39.37 107.315 0)
@@ -2266,7 +2266,7 @@
     (instances
       (project "mriya-left"
         (path "/eb62da78-dfd8-4bde-9993-50d36b1638e4"
-          (reference "J1") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -2787,7 +2787,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x05") (at 40.64 80.645 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dd62cb30-2359-4baa-b0fd-705904938b22)
-    (property "Reference" "J3" (at 40.64 71.755 0)
+    (property "Reference" "J1" (at 40.64 71.755 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "nice!view" (at 40.64 86.995 0)
@@ -2807,7 +2807,7 @@
     (instances
       (project "mriya-left"
         (path "/eb62da78-dfd8-4bde-9993-50d36b1638e4"
-          (reference "J3") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
