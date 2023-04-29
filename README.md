@@ -51,7 +51,10 @@ J3, J4 | Audio connector DIP PJ-320A | 2 | [LCSC](https://www.lcsc.com/product-d
 --- | Brass Round Standoff Spacer Female M2 7mm | 8 | --- | [AliExpress](https://aliexpress.ru/item/1005003106030065.html?spm=a2g2w.cart.cart_split.119.4c8a4aa66vA5U0&sku_id=12000024119315245)
 --- | Screw M2 4mm | 28 | --- | [AliExpress](https://aliexpress.ru/item/1005004494509456.html?spm=a2g2w.cart.cart_split.125.4c8a4aa66vA5U0&sku_id=12000029356038182)
 
-## Inspired by
+## Firmware
+[ZMK Config](https://github.com/themaxbang/mriya-zmk-config) for the MRIYA
+
+## Inspiration
 - [corne](https://github.com/foostan/crkbd)
 - [cantor](https://github.com/diepala/cantor)
 - [jian](https://github.com/KGOH/Jian-Info)
