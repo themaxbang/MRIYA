@@ -43,8 +43,8 @@ PSW1, PSW2 | Power Switch SSSS811101 / MSK-12C01-07 | 2 | [LCSC](https://www.lcs
 RSW1, RSW2 | Reset Button TC-1109-C-A (4.5x4.5x**5.5**mm) | 2 | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TC-1109-C-A_C561500.html) | [AliExpress](https://aliexpress.ru/item/1005001629344310.html?spm=a2g2w.orderdetail.0.0.71e54aa6nRE0h1&sku_id=12000016890022339)
 J1, J2 | Nice!View Display (optional) | 2 | --- | ---
 J3, J4 | Audio connector DIP PJ-320A | 2 | [LCSC](https://www.lcsc.com/product-detail/Audio-Connectors_XKB-Connectivity-PJ-320A_C2884926.html) | [AliExpress](https://aliexpress.ru/item/4000661212458.html?sku_id=10000005518588253&spm=a2g2w.productlist.search_results.3.61834aa6M9b3i4)
---- | Socket PH5 12pin | 4 | --- | [AliExpress](https://aliexpress.ru/item/1005004122312694.html?spm=a2g2w.orderdetail.0.0.59fe4aa6jnSjne&sku_id=12000028109287707)
---- | Socket PH5 5pin | 2 | --- | [AliExpress](https://aliexpress.ru/item/1005004122312694.html?spm=a2g2w.orderdetail.0.0.59fe4aa6jnSjne&sku_id=12000028109287707)
+--- | Socket PH5 12pin (Female headers) pitch 2.54mm | 4 | --- | [AliExpress](https://aliexpress.ru/item/1005004122312694.html?spm=a2g2w.orderdetail.0.0.59fe4aa6jnSjne&sku_id=12000028109287707)
+--- | Socket PH5 5pin (Female headers) pitch 2.54mm | 2 | --- | [AliExpress](https://aliexpress.ru/item/1005004122312694.html?spm=a2g2w.orderdetail.0.0.59fe4aa6jnSjne&sku_id=12000028109287707)
 --- | LiPo Battery 301230 | 2 | --- | [AliExpress](https://aliexpress.ru/item/1005003764406289.html?sku_id=12000027086236055&spm=a2g2w.productlist.search_results.17.7f8b4aa6Hk7fEC)
 --- | Silicone Bumpers 10x2mm | 12 | --- | [AliExpress](https://aliexpress.ru/item/4001226492679.html?sku_id=12000027495928162)
 --- | Round Aluminum Standoff M2 (for MCU cover) 8mm | 6 | --- | [AliExpress](https://aliexpress.ru/item/1005001584480996.html?sku_id=12000016689546559&spm=a2g2w.productlist.search_results.0.48f74aa6SBsFPF)
