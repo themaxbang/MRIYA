@@ -39,7 +39,7 @@ work in progress..
  ------- | ------- | ------- | ------- | ------- 
 U1, U2 | Microcontroller ProMicro | 2 | --- | ---
 SW1-SW42 | Kailh Hotswap Socket | 42 | [LCSC](https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_span-style-background-color-ff0-Kailh-span-CPG151101S11-16_C5156480.html) | [AliExpress](https://aliexpress.ru/item/1005003873653184.html?spm=a2g2w.orderdetail.0.0.3e484aa6uTmLrs&sku_id=12000031057687324)
-D1-D42 | Diode 1N4148W (SOT-123) | 42 | --- | ---
+D1-D42 | Diode 1N4148W (SOD-123) | 42 | --- | ---
 PSW1, PSW2 | Power Switch | 2 | --- | ---
 RSW1, RSW2 | Reset Switch TC-1109-C-A (4.5x4.5x**5.5**mm) | 2 | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TC-1109-C-A_C561500.html) | [AliExpress](https://aliexpress.ru/item/1005001629344310.html?spm=a2g2w.orderdetail.0.0.71e54aa6nRE0h1&sku_id=12000016890022339)
 
