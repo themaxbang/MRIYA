@@ -52,6 +52,7 @@ J3, J4 | Audio connector DIP PJ-320A | 2 | [LCSC](https://www.lcsc.com/product-d
 --- | Screw M2 4mm | 28 | --- | [AliExpress](https://aliexpress.ru/item/1005004494509456.html?spm=a2g2w.cart.cart_split.125.4c8a4aa66vA5U0&sku_id=12000029356038182)
 
 ## Firmware
+You can use any firmware compatible with the corne keyboard.
 [ZMK Config](https://github.com/themaxbang/mriya-zmk-config) for the MRIYA
 
 ## Inspiration
