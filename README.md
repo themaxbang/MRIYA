@@ -11,21 +11,21 @@
 - Native nice!view support
 - Updated column stagger
 - No LEDs
-- Hot-swap MX
+- Hotswap MX
 - ZMK support
 
 ## PCB
-[Kicad 7.0.2 Stable](https://www.kicad.org/)
+[Kicad 7.0.10 Stable](https://www.kicad.org/)
 
-**Silkscreen font:** [Roboto](https://fonts.google.com/specimen/Roboto) / [Roboto condensed](https://fonts.google.com/specimen/Roboto+Condensed)
+Silkscreen font: [Roboto](https://fonts.google.com/specimen/Roboto) / [Roboto condensed](https://fonts.google.com/specimen/Roboto+Condensed)
 
-**PCB Art:** Olga Rai [[Shutterstock](https://www.shutterstock.com/g/OlgaRai) | [Adobe Stock](https://stock.adobe.com/contributor/209778624/olga-rai)]
+PCB Art: **Olga Rai** [[Shutterstock](https://www.shutterstock.com/g/OlgaRai) | [Adobe Stock](https://stock.adobe.com/contributor/209778624/olga-rai)]
 
-#### Top
+#### <div align="center">Top<div>
 ![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-left-top.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-right-top.png) 
  ---- | -----  
 
-#### Bottom
+#### <div align="center">Bottom<div>
 ![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-right-bottom.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-left-bottom.png)   
  ---- | -----  
 
@@ -34,10 +34,14 @@ Top | Bottom
  ---- | -----  
 ![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-top-plate.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bottom-plate.png)   
 
+## Bumper case
+
+![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case.png)
+
 ## BOM
 Reference|Name|Qty|LCSC|AliExpess
  ------- | ------- | ------- | ------- | ------- 
-U1, U2 | Microcontroller nRFMicro / SuperMini / nice!nano | 2 | --- | [AliExpress]()
+U1, U2 | Microcontroller nRFMicro / SuperMini nRF52840 / nice!nano | 2 | --- | [AliExpress]()
 SW1-SW42 | Kailh Hotswap Socket | 42 | [LCSC](https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_span-style-background-color-ff0-Kailh-span-CPG151101S11-16_C5156480.html) | [AliExpress]()
 D1-D42 | Diode 1N4148W (SOD-123) | 42 | [LCSC](https://www.lcsc.com/product-detail/Diodes-General-Purpose_RealChip-1N4148W_C5443965.html) | [AliExpress]()
 PSW1, PSW2 | Power Switch SSSS811101 / MSK-12C01-07 | 2 | [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_ALPSALPINE-SSSS811101_C109335.html) | [AliExpress]()
