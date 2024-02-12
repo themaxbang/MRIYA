@@ -12,8 +12,8 @@
 - Updated column stagger
 - 3DP bumper case
 - CNC plates
-- BSI-10H power switches
-- Molex 532610271 JST connectors
+- BSI-10H Slide Switches
+- Molex PicoBlade 1.25mm connectors
 - No LEDs
 - Hotswap MX
 - ZMK support
