@@ -20,10 +20,10 @@
 
 ## PCB
 
-<div align="left">Software<div>|<div align="left">[Kicad 7.0.10 Stable](https://www.kicad.org/)<div>
+Software|[Kicad 7.0.10 Stable](https://www.kicad.org/)
  ------- | -------
-**Silkscreen font** | [Roboto](https://fonts.google.com/specimen/Roboto) / [Roboto condensed](https://fonts.google.com/specimen/Roboto+Condensed)
-**PCB Art** | Olga Rai [[Shutterstock](https://www.shutterstock.com/g/OlgaRai) / [Adobe Stock](https://stock.adobe.com/contributor/209778624/olga-rai)]
+Silkscreen font | [Roboto](https://fonts.google.com/specimen/Roboto) / [Roboto condensed](https://fonts.google.com/specimen/Roboto+Condensed)
+PCB Art | Olga Rai [[Shutterstock](https://www.shutterstock.com/g/OlgaRai) / [Adobe Stock](https://stock.adobe.com/contributor/209778624/olga-rai)]
 
 
 #### <div align="center">Top<div>
