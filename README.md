@@ -10,6 +10,10 @@
 - Reset buttons
 - Native nice!view support
 - Updated column stagger
+- 3DP bumper case
+- CNC plates
+- BSI-10H power switches
+- Molex 532610271 JST connectors
 - No LEDs
 - Hotswap MX
 - ZMK support
