@@ -45,17 +45,17 @@ Top | Bottom
 ## BOM
 Reference|Name|Qty|LCSC|AliExpess
  ------- | ------- | ------- | ------- | ------- 
-U1, U2 | Microcontroller nRFMicro / SuperMini nRF52840 / nice!nano | 2 | --- | [AliExpress]()
+U1, U2 | Microcontroller: [nRFMicro](https://github.com/joric/nrfmicro) / SuperMini nRF52840 / nice!nano | 2 | --- | [AliExpress]()
 SW1-SW42 | Kailh Hotswap Socket | 42 | [LCSC](https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_span-style-background-color-ff0-Kailh-span-CPG151101S11-16_C5156480.html) | [AliExpress]()
 D1-D42 | Diode 1N4148W (SOD-123) | 42 | [LCSC](https://www.lcsc.com/product-detail/Diodes-General-Purpose_RealChip-1N4148W_C5443965.html) | [AliExpress]()
-PSW1, PSW2 | Power Switch SSSS811101 / MSK-12C01-07 | 2 | [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_ALPSALPINE-SSSS811101_C109335.html) | [AliExpress]()
+PSW1, PSW2 | Power Switch SUNGMUN BSI-10H | 2 | [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_SUNGMUN-BSI-10H_C411270.html) | [AliExpress]()
 RSW1, RSW2 | Reset Button TC-1109-C-A (4.5x4.5x**5.5**mm) 4pin DIP | 2 | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TC-1109-C-A_C561500.html) | [AliExpress]()
-J1, J2 | Nice!View Display (optional) | 2 | --- | ---
-J3, J4 | Audio connector DIP PJ-320A | 2 | [LCSC](https://www.lcsc.com/product-detail/Audio-Connectors_XKB-Connectivity-PJ-320A_C2884926.html) | [AliExpress]()
+J1, J2 | Display nice!view (optional) | 2 | --- | ---
+J3, J4 | Molex PicoBlade 532610271 connector | 2 | [LCSC](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-532610271_C189700.html) | [AliExpress]()
 --- | Socket PH5 12pin (Female headers) pitch 2.54mm | 4 | --- | [AliExpress]()
 --- | Socket PH5 5pin (Female headers) pitch 2.54mm | 2 | --- | [AliExpress]()
 --- | LiPo Battery 301230 | 2 | --- | [AliExpress]()
---- | Silicone Bumpers 10x2mm | 12 | --- | [AliExpress]()
+--- | Silicone Bumpers 8x2mm | 12 | --- | [AliExpress]()
 --- | Round Aluminum Standoff M2 (for MCU cover) 8mm | 6 | --- | [AliExpress]()
 --- | Brass Round Standoff Spacer Female M2 7mm | 8 | --- | [AliExpress]()
 --- | Screw M2 4mm | 28 | --- | [AliExpress]()
