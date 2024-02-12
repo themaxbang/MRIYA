@@ -19,14 +19,20 @@
 - ZMK support
 
 ## PCB
-
-
-| <!-- -->   | <!-- -->   | 
-| :--------- | :-------   | 
-Software | [Kicad 7.0.10 Stable](https://www.kicad.org/)
-Silkscreen font | [Roboto](https://fonts.google.com/specimen/Roboto) / [Roboto condensed](https://fonts.google.com/specimen/Roboto+Condensed)
-PCB Art | Olga Rai [[Shutterstock](https://www.shutterstock.com/g/OlgaRai) / [Adobe Stock](https://stock.adobe.com/contributor/209778624/olga-rai)]
-
+<table align="center">
+    <tr>
+        <td align="left">Software</td>
+        <td align="left"><a href="https://www.kicad.org/">Kicad 7.0.10 Stable</a></td>
+    </tr>
+    <tr>
+        <td align="left">Silkscreen font</td>
+        <td align="left"><a href="https://fonts.google.com/specimen/Roboto">Roboto</a> / <a href="https://fonts.google.com/specimen/Roboto+Condensed">Roboto condensed</a></td>
+    </tr>
+    <tr>
+        <td align="left">PCB Art</td>
+        <td align="left"> Olga Rai [<a href="https://www.shutterstock.com/g/OlgaRai">Shutterstock</a> / <a href="https://stock.adobe.com/contributor/209778624/olga-rai">Adobe Stock</a>]</td>
+    </tr>
+</table>
 
 #### <div align="center">Top<div>
 ![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-left-top.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-pcb-right-top.png) 
@@ -73,3 +79,4 @@ You can use any firmware compatible with the Corne keyboard.
 - [jian](https://github.com/KGOH/Jian-Info)
 - [chocofi](https://github.com/pashutk/chocofi) / [fifi](https://github.com/raychengy/fifi_split_keeb)
 - [slice36](https://github.com/MReavley/Slice36)
+
