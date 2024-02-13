@@ -43,9 +43,8 @@
  ---- | -----  
 
 ## PCB Plates
-Top | Bottom    
- ---- | -----  
 ![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-top-plate.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bottom-plate.png)   
+ ---- | -----
 
 ## Bumper case
 
