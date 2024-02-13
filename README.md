@@ -26,11 +26,11 @@
     </tr>
     <tr>
         <td align="left">Silkscreen font</td>
-        <td align="left"><a href="https://fonts.google.com/specimen/Roboto">Roboto</a> / <a href="https://fonts.google.com/specimen/Roboto+Condensed">Roboto condensed</a></td>
+        <td align="left"><a href="https://fonts.google.com/specimen/Roboto">Roboto</a> | <a href="https://fonts.google.com/specimen/Roboto+Condensed">Roboto condensed</a></td>
     </tr>
     <tr>
         <td align="left">PCB Art</td>
-        <td align="left"> Olga Rai [<a href="https://www.shutterstock.com/g/OlgaRai">Shutterstock</a> / <a href="https://stock.adobe.com/contributor/209778624/olga-rai">Adobe Stock</a>]</td>
+        <td align="left"> Olga Rai [<a href="https://www.shutterstock.com/g/OlgaRai">Shutterstock</a> | <a href="https://stock.adobe.com/contributor/209778624/olga-rai">Adobe Stock</a>]</td>
     </tr>
 </table>
 
