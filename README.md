@@ -6,11 +6,11 @@
 
 ## Features
 - Design optimized for wireless
-- Updated thumb cluster (inspired by [jian](https://github.com/KGOH/Jian-Info))
+- Updated thumb cluster (inspired by [Jian](https://github.com/KGOH/Jian-Info))
 - Reset buttons
 - Native nice!view support
 - Updated column stagger
-- 3DP bumper case
+- 3DP bumper case (inspired by [Dao Choc BLE](https://github.com/yumagulovrn/dao-choc-ble))
 - CNC plates
 - BSI-10H Slide Switches
 - Molex PicoBlade 1.25mm connectors
