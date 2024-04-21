@@ -10,7 +10,7 @@
 - Reset buttons
 - Native nice!view support
 - Updated column stagger
-- 3DP bumper case (inspired by [Dao Choc BLE](https://github.com/yumagulovrn/dao-choc-ble))
+- 3DP bumper cases (inspired by [Dao Choc BLE](https://github.com/yumagulovrn/dao-choc-ble))
 - CNC plates
 - BSI-10H Slide Switches
 - Molex PicoBlade 1.25mm connectors
@@ -22,11 +22,15 @@
 <table align="center">
     <tr>
         <td align="left">Software</td>
-        <td align="left"><a href="https://www.kicad.org/">Kicad 7.0.10 Stable</a></td>
+        <td align="left"><a href="https://www.kicad.org/">Kicad 7.0.11 Stable</a></td>
     </tr>
     <tr>
         <td align="left">Silkscreen font</td>
         <td align="left"><a href="https://fonts.google.com/specimen/Roboto">Roboto</a> | <a href="https://fonts.google.com/specimen/Roboto+Condensed">Roboto condensed</a></td>
+    </tr>
+    <tr>
+        <td align="left">Bird logo</td>
+        <td align="left"><a href="https://pngtree.com/freepng/minimalist-bird-logo_4124682.html">pngtree.com</a></td>
     </tr>
     <tr>
         <td align="left">PCB Art</td>
@@ -48,7 +52,8 @@
 
 ## Bumper case
 
-![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case.png)
+![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-v1.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-v2.png)
+ ---- | -----
 
 ## BOM
 Reference|Name|Qty|LCSC|AliExpess
