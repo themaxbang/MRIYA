@@ -59,7 +59,7 @@
 
 ## Bumper case
 
-![SLA](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case.png)|![]()
+![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-01.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-02.png)
  ---- | -----
 
 ## BOM
