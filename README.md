@@ -10,7 +10,7 @@
 - Reset buttons
 - Native nice!view support
 - Updated column stagger
-- 3DP bumper cases (inspired by [Dao Choc BLE](https://github.com/yumagulovrn/dao-choc-ble))
+- 3DP bumper case (inspired by [Dao Choc BLE](https://github.com/yumagulovrn/dao-choc-ble))
 - CNC plates
 - BSI-10H Slide Switches
 - Molex PicoBlade 1.25mm connectors
@@ -58,7 +58,7 @@
  ---- | -----
 
 ## Bumper case
-
+#### <div align="center">SLA (Black Resin)<div>
 ![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-01.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-02.png)
  ---- | -----
 
@@ -78,7 +78,8 @@ J3, J4 | Molex PicoBlade 532610271 connector | 2 | [LCSC](https://www.lcsc.com/p
 --- | Silicone Bumpers 8x2mm | 12 | --- | [AliExpress](https://aliexpress.com/item/1005005467943079.html?spm=a2g2w.orderdetail.0.0.711a4aa6AFao3v&sku_id=12000033199265741)
 --- | 304 Stainless Steel Hex Standoff Spacer M2 (for MCU cover) 10mm | 4 | --- | [AliExpress](https://aliexpress.com/item/1005005442165195.html?spm=a2g2w.orderdetail.0.0.2d804aa6CZhJAg&sku_id=12000033098792235)
 --- | Brass Round Standoff Spacer Female M2 7mm | 8 | --- | [AliExpress](https://aliexpress.com/item/1005002979083511.html?spm=a2g2w.orderdetail.0.0.6aac4aa6dg8vSw&sku_id=12000023043529031)
---- | Screw M2 4mm | 28 | --- | [Ali]()
+--- | M2 A2 Stainless Steel Torx Six-Lobe Ultra Thin Head bolts 4mm | 24 | --- | [AliExpress](https://aliexpress.com/item/1005005264656436.html?spm=a2g2w.orderdetail.0.0.5a324aa632T1UX&sku_id=12000032411444147)
+--- | Jst Connector 1.25mm Dual Head Wire Cable 2 Pin Female Plug (optional) | 2 | --- | [AliExpress](https://aliexpress.com/item/1005006000774395.html?spm=a2g2w.orderdetail.0.0.196a4aa6zCJJ7L&sku_id=12000035250620566)
 
 ## Firmware
 You can use any firmware compatible with the Corne keyboard.
