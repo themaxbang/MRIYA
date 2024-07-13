@@ -14,6 +14,8 @@
 - CNC plates
 - BSI-10H Slide Switches
 - Molex PicoBlade 1.25mm connectors
+- LiPo Battery 301230/301645 support
+- No-Solder Spring Headers support
 - No LEDs
 - Hotswap MX
 - ZMK support
@@ -74,16 +76,18 @@ SW1-SW42 | Kailh Hotswap Socket | 42 | [LCSC](https://www.lcsc.com/product-detai
 D1-D42 | Diode 1N4148W (SOD-123) | 42 | [LCSC](https://www.lcsc.com/product-detail/Diodes-General-Purpose_RealChip-1N4148W_C5443965.html) | [AliExpess](https://aliexpress.com/item/1005005537832969.html?sku_id=12000033458494245&spm=a2g2w.productlist.search_results.5.6e951e06EKxRY6)
 PSW1, PSW2 | Power Switch SUNGMUN BSI-10H | 2 | [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_SUNGMUN-BSI-10H_C411270.html) | [AliExpress](https://aliexpress.com/item/1005005950448146.html?spm=a2g2w.orderdetail.0.0.1e724aa63gS17v&sku_id=12000034992277962)
 RSW1, RSW2 | Reset Button TC-1109-C-A (4.5x4.5x**5.5**mm) 4pin DIP | 2 | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TC-1109-C-A_C561500.html) | [AliExpress](https://aliexpress.com/item/1005001629344310.html?spm=a2g2w.orderdetail.0.0.67d34aa6KalrlU&sku_id=12000016890022339)
-J1, J2 | Display nice!view (optional) | 2 | --- | ---
+J1, J2 | Display nice!view [optional] | 2 | --- | ---
 J3, J4 | Molex PicoBlade 532610271 connector | 2 | [LCSC](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-532610271_C189700.html) | [AliExpress](https://aliexpress.com/item/1005004425197503.html?sku_id=12000029142536237&spm=a2g2w.productlist.search_results.1.62a247c6KjWDQ2)
 --- | Socket PH5 12pin (Female headers) pitch 2.54mm | 4 | --- | [Ali]()
 --- | Socket PH5 5pin (Female headers) pitch 2.54mm | 2 | --- | [Ali]()
 --- | LiPo Battery 301230 | 2 | --- | [AliExpress](https://aliexpress.com/item/1005007211356412.html?sku_id=12000039821419568&spm=a2g2w.productlist.search_results.8.355678e0tXjjaI)
+--- | LiPo Battery 301645 [optional] (No display support. You can install it above the microcontroller) | 2 | --- | [AliExpress](https://aliexpress.com/item/32822552643.html?spm=a2g2w.orderdetail.0.0.6b594aa68QZKt3&sku_id=64950436890)
 --- | Silicone Bumpers 8x2mm | 12 | --- | [AliExpress](https://aliexpress.com/item/1005005467943079.html?spm=a2g2w.orderdetail.0.0.711a4aa6AFao3v&sku_id=12000033199265741)
 --- | 304 Stainless Steel Hex Standoff Spacer M2 (for MCU cover) 10mm | 4 | --- | [AliExpress](https://aliexpress.com/item/1005005442165195.html?spm=a2g2w.orderdetail.0.0.2d804aa6CZhJAg&sku_id=12000033098792235)
 --- | Brass Round Standoff Spacer Female M2 7mm | 8 | --- | [AliExpress](https://aliexpress.com/item/1005002979083511.html?spm=a2g2w.orderdetail.0.0.6aac4aa6dg8vSw&sku_id=12000023043529031)
 --- | M2 A2 Stainless Steel Torx Six-Lobe Ultra Thin Head bolts 4mm | 24 | --- | [AliExpress](https://aliexpress.com/item/1005005264656436.html?spm=a2g2w.orderdetail.0.0.5a324aa632T1UX&sku_id=12000032411444147)
---- | Jst Connector 1.25mm Dual Head Wire Cable 2 Pin Female Plug (optional) | 2 | --- | [AliExpress](https://aliexpress.com/item/1005006000774395.html?spm=a2g2w.orderdetail.0.0.196a4aa6zCJJ7L&sku_id=12000035250620566)
+--- | M2 grade 12.9 Insert Torx Screw 5mm [optional] (for CNC MCU cover) | 4 | --- | [AliExpress](https://aliexpress.com/item/1005005241011259.html?spm=a2g2w.orderdetail.0.0.615a4aa6uGGyDx&sku_id=12000032329870357)
+--- | Jst Connector 1.25mm Dual Head Wire Cable 2 Pin Female Plug [optional] | 2 | --- | [AliExpress](https://aliexpress.com/item/1005006000774395.html?spm=a2g2w.orderdetail.0.0.196a4aa6zCJJ7L&sku_id=12000035250620566)
 
 ## Firmware
 You can use any firmware compatible with the Corne keyboard.
