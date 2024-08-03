@@ -94,7 +94,7 @@ You can use any firmware compatible with the Corne keyboard.
 [ZMK Config](https://github.com/themaxbang/mriya-zmk-config) for the MRIYA
 
 ## Inspiration
-- [Corne](https://github.com/foostan/crkbd)
+- [Corne](https://github.com/foostan/crkbd) | [Corne Ultralight](https://github.com/petejohanson/crkbd/tree/board/corne-ultralight)
 - [Jian](https://github.com/KGOH/Jian-Info)
-- [Chocofi](https://github.com/pashutk/chocofi) / [Fifi](https://github.com/raychengy/fifi_split_keeb)
+- [Chocofi](https://github.com/pashutk/chocofi) | [Fifi](https://github.com/raychengy/fifi_split_keeb)
 - [Dao Choc BLE](https://github.com/yumagulovrn/dao-choc-ble)
