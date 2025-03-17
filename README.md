@@ -1,4 +1,5 @@
-## Work in progress.. Updates coming soon
+## Work in progress.. Ordered final version PCBs
+
 # MRIYA
 **MRIYA** (Ukrainian for «Dream») is a 42-key column-staggered split keyboard based on [Corne Cherry v.3.0.1](https://github.com/foostan/crkbd)
 
@@ -81,9 +82,9 @@ J3, J4 | Molex PicoBlade 532610271 connector | 2 | [LCSC](https://www.lcsc.com/p
 --- | Socket PH5 12pin (Female header) pitch 2.54mm | 4 | --- | [Ali]()
 --- | Socket PH5 5pin (Female header) pitch 2.54mm | 2 | --- | [Ali]()
 --- | LiPo Battery 301230 | 2 | --- | [AliExpress](https://aliexpress.com/item/1005007211356412.html?sku_id=12000039821419568&spm=a2g2w.productlist.search_results.8.355678e0tXjjaI)
---- | LiPo Battery 301645 [optional] (No display support. You can install it above the microcontroller) | 2 | --- | [AliExpress](https://aliexpress.com/item/32822552643.html?spm=a2g2w.orderdetail.0.0.6b594aa68QZKt3&sku_id=64950436890)
+--- | LiPo Battery 301645 [optional] | 2 | --- | [AliExpress](https://aliexpress.com/item/32822552643.html?spm=a2g2w.orderdetail.0.0.6b594aa68QZKt3&sku_id=64950436890)
 --- | Silicone Bumpers 8x2mm | 12 | --- | [AliExpress](https://aliexpress.com/item/1005005467943079.html?spm=a2g2w.orderdetail.0.0.711a4aa6AFao3v&sku_id=12000033199265741)
---- | 304 Stainless Steel Hex Standoff Spacer M2 (for MCU cover) 10mm | 4 | --- | [AliExpress](https://aliexpress.com/item/1005005442165195.html?spm=a2g2w.orderdetail.0.0.2d804aa6CZhJAg&sku_id=12000033098792235)
+--- | Brass Round Standoff Spacer Female M2 10mm | 4 | --- | [AliExpress](https://aliexpress.com/item/1005003126118423.html?spm=a2g2w.orderdetail.0.0.1b644aa6Ertetp&sku_id=12000024241636347)
 --- | Brass Round Standoff Spacer Female M2 7mm | 8 | --- | [AliExpress](https://aliexpress.com/item/1005002979083511.html?spm=a2g2w.orderdetail.0.0.6aac4aa6dg8vSw&sku_id=12000023043529031)
 --- | M2 A2 Stainless Steel Torx Six-Lobe Ultra Thin Head bolts 4mm | 24 | --- | [AliExpress](https://aliexpress.com/item/1005002461101939.html?spm=a2g2w.orderdetail.0.0.14244aa6K1bxTG&sku_id=12000025423430581)
 --- | M2 grade 12.9 Insert Torx Screw 5mm [optional] (for CNC MCU cover) | 4 | --- | [AliExpress](https://aliexpress.com/item/1005005241011259.html?spm=a2g2w.orderdetail.0.0.615a4aa6uGGyDx&sku_id=12000032329870357)
