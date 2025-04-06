@@ -25,7 +25,7 @@
 <table align="center">
     <tr>
         <td align="left">Software</td>
-        <td align="left"><a href="https://www.kicad.org/">KiCad 7.0.11 Stable</a></td>
+        <td align="left"><a href="https://www.kicad.org/">KiCad 8.0.9 Stable</a></td>
     </tr>
     <tr>
         <td align="left">Silkscreen font</td>
