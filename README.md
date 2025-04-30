@@ -89,7 +89,7 @@ J3, J4 | Molex PicoBlade 532610271 connector | 2 | [LCSC](https://www.lcsc.com/p
 --- | Brass Round Standoff Spacer Female M2 10mm | 4 | --- | [AliExpress](https://aliexpress.com/item/1005002979083511.html?sku_id=12000023043529034)
 --- | Brass Round Standoff Spacer Female M2 7mm | 8 | --- | [AliExpress](https://aliexpress.com/item/1005002979083511.html?sku_id=12000023043529031)
 --- | M3 ABS Nylon Round Standoff Spacer 3.5mm | 12 | --- | [AliExpress](https://aliexpress.com/item/1005004162177818.html?sku_id=12000028239766646)
---- | M3 Black ABS Non-Threaded Hollowed Nylon Spacer 5mm | 4 | --- | [AliExpress](https://aliexpress.com/item/1005006120526666.html?sku_id=12000035843885709)
+--- | M3 Black ABS Non-Threaded Hollowed Nylon Spacer 5mm [optional] | 4 | --- | [AliExpress](https://aliexpress.com/item/1005006120526666.html?sku_id=12000035843885709)
 --- | M2 Stainless Steel Torx Six-Lobe Ultra Thin Head Screw 4mm | 24 | --- | [AliExpress](https://aliexpress.com/item/1005002461101939.html?sku_id=12000025423430581)
 --- | M2 Stainless Steel Torx Head Flat Countersunk Screw 8 mm (for Classic case + FDM plates) | 12 | --- | [AliExpress](https://aliexpress.com/item/1005007404555871.html?sku_id=12000040603875540)
 --- | M2 Stainless Steel Torx Head Flat Countersunk Screw 5 mm (for Classic case + FR4 plates) | 12 | --- | [AliExpress](https://aliexpress.com/item/1005007404555871.html?sku_id=12000040603875538)
