@@ -77,7 +77,7 @@ SW1-SW42 | Kailh Hotswap Socket CPG151101S11 | 42 | [LCSC](https://www.lcsc.com/
 D1-D42 | Diode 1N4148W (SOD-123) | 42 | [LCSC](https://www.lcsc.com/product-detail/Switching-Diodes_JSMSEMI-1N4148W_C917030.html) | [AliExpess](https://aliexpress.com/item/1005008224039255.html?sku_id=12000044288109815)
 PSW1, PSW2 | Power Switch SUNGMUN BSI-10H | 2 | [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_SM-Switch-BSI-10H_C5775777.html) | [AliExpress](https://aliexpress.com/item/1005006561513178.html?sku_id=12000037678382032)
 RSW1, RSW2 | Reset Button TC-1109-C-A (4.5x4.5x**5.5**mm) 4pin DIP | 2 | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TC-1109-C-A_C561500.html) | [AliExpress](https://aliexpress.com/item/1005001629344310.html?sku_id=12000016890022339)
-J1, J2 | Display nice!view [optional] | 2 | --- | [AliExpess](https://aliexpress.com/item/1005007972384358.html?sku_id=12000043094547978)
+J1, J2 | Nice!view display [optional] | 2 | --- | [AliExpess](https://aliexpress.com/item/1005007972384358.html?sku_id=12000043094547978)
 J3, J4 | Molex PicoBlade 532610271 connector | 2 | [LCSC](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-532610271_C189700.html) | [AliExpress](https://aliexpress.com/item/1005004425197503.html?sku_id=12000029142536237)
 --- | Socket PH5 12pin (Female header) pitch 2.54mm | 4 | --- | [AliExpress](https://aliexpress.com/item/1005006055026707.html?sku_id=12000037525939024)
 --- | Socket PH5 5pin (Female header) pitch 2.54mm | 2 | --- | [AliExpress](https://aliexpress.com/item/1005006055026707.html?sku_id=12000037525939018)
