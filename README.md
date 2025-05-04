@@ -82,7 +82,7 @@ J3, J4 | Molex PicoBlade 532610271 connector | 2 | [LCSC](https://www.lcsc.com/p
 --- | Socket PH5 12pin (Female header) pitch 2.54mm | 4 | --- | [AliExpress](https://aliexpress.com/item/1005006055026707.html?sku_id=12000037525939024)
 --- | Socket PH5 5pin (Female header) pitch 2.54mm | 2 | --- | [AliExpress](https://aliexpress.com/item/1005006055026707.html?sku_id=12000037525939018)
 --- | LiPo Battery 301230 | 2 | --- | [AliExpress](https://aliexpress.com/item/1005008151618452.html?sku_id=12000044007992383)
---- | LiPo Battery 301645 [optional] | 2 | --- | [AliExpress](https://aliexpress.com/item/32822552643.html?sku_id=64950436890)
+--- | LiPo Battery 301645 (Mounts underneath the PCB. During assembly, you must trim the PH5 sockets and power switches legs flush with the PCB using a special template) [optional] | 2 | --- | [AliExpress](https://aliexpress.com/item/32822552643.html?sku_id=64950436890)
 --- | Jst Connector 1.25mm Dual Head Wire Cable 2 Pin Female Plug [optional] | 2 | --- | [AliExpress](https://aliexpress.com/item/1005006000774395.html?sku_id=12000035250620558)
 --- | Silicone Bumpers 8x2mm (for Classic case or CNC plates) | 12 | --- | [AliExpress](https://aliexpress.com/item/1005005467943079.html?sku_id=12000033199265741)
 --- | Silicone Bumpers 8x1.5mm (for FR4 plates) | 12 | --- | [AliExpress](https://aliexpress.com/item/1005002478823169.html?sku_id=12000038015770755)
