@@ -1,4 +1,4 @@
-## Work in progress.. testing the release version
+## Work in progress.. gerbers are available
 
 # MRIYA
 **MRIYA** (Ukrainian for «Dream») is a 42-key column-staggered split keyboard based on [Corne Cherry v.3.0.1](https://github.com/foostan/crkbd)
@@ -25,7 +25,7 @@
 <table align="center">
     <tr>
         <td align="left">Software</td>
-        <td align="left"><a href="https://www.kicad.org/">KiCad 8.0.9 Stable</a></td>
+        <td align="left"><a href="https://www.kicad.org/">KiCad 9.0.6 Stable</a></td>
     </tr>
     <tr>
         <td align="left">Silkscreen font</td>
