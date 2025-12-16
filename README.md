@@ -65,7 +65,7 @@
 ![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-FDM-01.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-FDM-02.png)
  ---- | -----
 
-## BOM
+## Bill of Materials
 Reference|Name|Qty|LCSC|AliExpess
  ------- | ------- | ------- | ------- | ------- 
 U1, U2 | Microcontroller: [nRFMicro](https://github.com/joric/nrfmicro) / SuperMini nRF52840 / nice!nano | 2 | --- | [AliExpress](https://aliexpress.com/item/1005006282506884.html?sku_id=12000036599296319)
