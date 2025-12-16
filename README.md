@@ -61,10 +61,6 @@
  ---- | -----
 
 ## 3D Printed Bumper Case
-#### <div align="center">SLA (Black Resin)<div>
-![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-SLA-01.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-SLA-02.png)
- ---- | -----
-
 #### <div align="center">FDM<div>
 ![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-FDM-01.png)|![](https://github.com/themaxbang/MRIYA/blob/main/renders/mriya-bumper-case-FDM-02.png)
  ---- | -----
