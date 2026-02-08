@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MRIYA")(type "KiCad")(uri "${KIPRJMOD}/mriya.pretty")(options "")(descr ""))
+)

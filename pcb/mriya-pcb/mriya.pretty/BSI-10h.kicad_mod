@@ -1,0 +1,225 @@
+(footprint "BSI-10h"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Single-pole double-throw (SPDT) toggle switch")
+	(property "Reference" "PSW2"
+		(at 0 -4.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2f8cc7c1-1cb2-4b5a-87b8-ed782eea2ed0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SW_SPDT"
+		(at 0 2.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d1eebd09-6851-41e3-8e7e-4a0192f3eb62")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "01700f56-435b-41a6-86b7-fcfbe27737d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Power Switch SUNGMUN BSI-10H"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a0370c2-89f5-4235-a968-358ef8baeb11")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5 0)
+		(end 5 0)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "388301c8-1ee8-40fb-8e42-b609eb752085")
+	)
+	(fp_line
+		(start -5 4.5)
+		(end -5 0)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "bca500b4-8f92-4a70-b4f9-41b8e7799824")
+	)
+	(fp_line
+		(start -3.5 -0.6)
+		(end -0.25 -0.9)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "75fd78a8-159a-4ef4-bfd6-14541a9493c7")
+	)
+	(fp_line
+		(start -3.5 0)
+		(end -3.5 -0.6)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "390b8218-6f72-4e74-ae82-07e5b96075f1")
+	)
+	(fp_line
+		(start -0.25 -1.4)
+		(end -0.25 -0.9)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "a5c1cb21-d017-49fd-87a6-c56ca361f512")
+	)
+	(fp_line
+		(start -0.25 -1.4)
+		(end 1.8 -1.4)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "58e9bf69-4771-413d-9013-b6da20854481")
+	)
+	(fp_line
+		(start 1.8 -1.4)
+		(end 1.8 -0.9)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "2a0457c9-5f2b-49a7-a645-98adbbbcf5b7")
+	)
+	(fp_line
+		(start 5 -0.6)
+		(end 1.8 -0.9)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "f507003d-dd20-4c50-9d3d-8ef33294f20a")
+	)
+	(fp_line
+		(start 5 -0.6)
+		(end 5 0)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "933fd5d2-ed43-4ae5-97c9-ba9cba52b851")
+	)
+	(fp_line
+		(start 5 0)
+		(end 5 4.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "1dc70eb7-3caa-4406-aa08-c28dc6279aae")
+	)
+	(fp_line
+		(start 5 4.5)
+		(end -5 4.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "555a10ec-c0c0-479b-931e-ce0b8c5fada1")
+	)
+	(fp_arc
+		(start -3.5 4.5)
+		(mid -4 5)
+		(end -4.5 4.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "354b4193-ac23-47b0-b535-331352cea857")
+	)
+	(fp_arc
+		(start 4.5 4.5)
+		(mid 4 5)
+		(end 3.5 4.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "775a51d7-3444-4915-9df8-9718fec72db0")
+	)
+	(pad "1" thru_hole circle
+		(at 0 5.4)
+		(size 1.3 1.3)
+		(drill 0.8128)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "0111ad80-1c10-480e-8aa0-f93603accde3")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 5.4)
+		(size 1.3 1.3)
+		(drill 0.8128)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "9739625f-9804-4851-9cd3-951c2ff548ee")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 5.4)
+		(size 1.3 1.3)
+		(drill 0.8128)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "88582319-7f9c-481b-aeb9-9b4974eeca7c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/mriya3d/Mini Slide Switch Right Angled 10x2,5mm.stp"
+		(offset
+			(xyz 0 -5.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+)

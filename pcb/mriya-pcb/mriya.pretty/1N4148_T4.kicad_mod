@@ -1,0 +1,164 @@
+(footprint "1N4148_T4"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Diode 1N4148W SOD-123")
+	(tags "Diode")
+	(property "Reference" "D4"
+		(at 0 -1.7 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "9932e839-0a0f-4b1f-ad64-bc3ccb387a2e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D"
+		(at -0.6 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86377a84-f682-4f56-8b04-0c8037afe689")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "5b2509c4-bf49-4a4e-934d-b3975655e4ee")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" "Diode 1N4148W SOD-123"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "93cfb593-27f3-4e75-bda9-21cbd0cfb9fa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.5 -0.5)
+		(end -0.5 0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f395569-249c-43f4-bcf6-6f7bd8ff6fee")
+	)
+	(fp_line
+		(start -0.4 0)
+		(end 0.5 -0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7d21899d-8b87-4271-aeb3-eb5e957d9fb7")
+	)
+	(fp_line
+		(start 0.5 -0.5)
+		(end 0.5 0.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bdf5a5cd-5598-4370-ab2c-454672b0d318")
+	)
+	(fp_line
+		(start 0.5 0.5)
+		(end -0.4 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "74a16e72-7b51-4759-b3c7-d69e8eb0de52")
+	)
+	(fp_line
+		(start -2.5 -0.75)
+		(end -2.5 0.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "dfd88b80-3ca6-40a3-98c2-48ea0f18b670")
+	)
+	(fp_line
+		(start -2.5 0.75)
+		(end 2.5 0.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "fe53e9f7-2fc4-4220-8c36-220bd78be9ac")
+	)
+	(fp_line
+		(start 2.5 -0.75)
+		(end -2.5 -0.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "5563d072-6a01-48dd-9a60-851242ef5398")
+	)
+	(fp_line
+		(start 2.5 -0.75)
+		(end 2.5 0.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "B.Fab")
+		(uuid "77000587-cccb-4b56-a6a2-dda2b3d6cf76")
+	)
+	(pad "1" smd roundrect
+		(at -1.7 0)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "7e749aa5-df64-47e7-9f30-de2407ca4ce0")
+	)
+	(pad "2" smd circle
+		(at 1.7 0)
+		(size 1.25 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b2cb2dc6-34ee-4caa-8f53-698beb6ce7e2")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/mriya3d/D_SOD-123.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

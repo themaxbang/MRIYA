@@ -1,0 +1,64 @@
+(footprint "Hole_3.4mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Hole 3.4mm")
+	(property "Reference" "H"
+		(at 0 -5.3 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b835c371-0589-408a-a227-48ee8a11185c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Hole 3.4mm"
+		(at 0 5.3 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92f1ee59-69e0-42ef-96f0-3cf439dcb5fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "285ff185-0076-4b67-98f2-a183d2f8b161")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Hole without connection"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "16a6656c-94db-43c5-89ed-72e5d2ba5c86")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.4 3.4)
+		(drill 3.4)
+		(layers "*.Cu" "*.Mask")
+		(uuid "08529200-6604-4415-9f5e-df47d9468d76")
+	)
+	(embedded_fonts no)
+)

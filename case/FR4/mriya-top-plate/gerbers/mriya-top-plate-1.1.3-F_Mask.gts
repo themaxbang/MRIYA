@@ -1,0 +1,45 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-02-08T18:56:31+03:00*%
+%TF.ProjectId,mriya-top-plate-1.1.3,6d726979-612d-4746-9f70-2d706c617465,1.1.3*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-02-08 18:56:31*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,2.000000*%
+%ADD11C,3.400000*%
+%ADD12C,2.600000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,MH5*%
+X170300000Y-86000000D03*
+%TD*%
+D11*
+%TO.C,MH4*%
+X135500000Y-98650000D03*
+%TD*%
+%TO.C,MH3*%
+X59500000Y-86650000D03*
+%TD*%
+%TO.C,MH2*%
+X59500000Y-67650000D03*
+%TD*%
+%TO.C,MH1*%
+X135500000Y-60650000D03*
+%TD*%
+%TO.C,H3*%
+X170300000Y-98700000D03*
+%TD*%
+%TO.C,H2*%
+X157800000Y-98700000D03*
+%TD*%
+D12*
+%TO.C,H1*%
+X112100000Y-97700000D03*
+%TD*%
+M02*

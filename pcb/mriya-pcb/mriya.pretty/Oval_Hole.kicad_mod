@@ -1,0 +1,64 @@
+(footprint "Oval_Hole"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Oval Hole 3.4x6.0mm")
+	(property "Reference" "OH"
+		(at 0 -5.3 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "681c5aa1-8b99-4f53-a0dd-31272b532d8d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Oval Hole "
+		(at 0 5.3 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a5b4bc61-4bba-403e-a7f5-7180a909f21d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "Oval Hole 3.4x6.0mm"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc2e0408-fc9f-462d-a069-b4213c2bdc82")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Hole without connection"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "699a06b3-8ec8-4db5-96ba-530c98e89a22")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files)
+	(pad "" np_thru_hole oval
+		(at 0 0)
+		(size 6 3.4)
+		(drill oval 6 3.4)
+		(layers "*.Cu" "*.Mask")
+		(uuid "0c321a9d-d7bd-4b70-9dc7-e45b840f40b5")
+	)
+	(embedded_fonts no)
+)

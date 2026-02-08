@@ -1,0 +1,104 @@
+(footprint "Mouse_Bite"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "Mouse_Bite"
+		(at 0 -2 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "85a616da-55be-4d91-a226-7c942e7041b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+		)
+	)
+	(property "Value" "MB"
+		(at 0 2.1 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c2096553-2984-4bad-957d-78d1e94aa2e2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "74da5220-ccb5-47d5-ad87-3a0ed5fabfd3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec8b06ef-7df0-4aaf-b794-ca33df65bd0d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -2.4 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "fa1d2868-dd13-4d69-9bc8-deff336ba7f2")
+	)
+	(pad "" np_thru_hole circle
+		(at -1.6 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "e7beff8e-f6c1-4b24-b75a-e9d99e6e7202")
+	)
+	(pad "" np_thru_hole circle
+		(at -0.8 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "3a21bd8b-befd-48d2-bf3f-45ac2ef77500")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "55c430a7-ef8f-489b-9cd4-2c947f2e97e0")
+	)
+	(pad "" np_thru_hole circle
+		(at 0.8 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "96f2100e-de2a-44d8-a2ae-f62a875d702c")
+	)
+	(pad "" np_thru_hole circle
+		(at 1.6 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "b3893186-c924-4abc-9cef-dc4af1822c8b")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.4 0)
+		(size 0.5 0.5)
+		(drill 0.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "e9d4aed0-9ef6-4665-8149-6162f3b0a6ea")
+	)
+	(embedded_fonts no)
+)

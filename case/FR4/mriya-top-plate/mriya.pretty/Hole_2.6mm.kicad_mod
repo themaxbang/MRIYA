@@ -1,0 +1,63 @@
+(footprint "Hole_2.6mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "H"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "49fe42d6-a40a-4773-bd2b-82e88b680105")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Hole_2.6mm"
+		(at 0.01 -3.02 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3903140b-40d8-4008-a05d-7109967585a3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "926e33f6-ebcd-46ec-bb6c-05ed50210436")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Hole without connection"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "848236f8-f88a-461e-b1de-070de5dc5fd0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "" np_thru_hole circle
+		(at 0 0 270)
+		(size 2.6 2.6)
+		(drill 2.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "b090af21-4263-4083-8034-09b9b0970f65")
+	)
+	(embedded_fonts no)
+)
